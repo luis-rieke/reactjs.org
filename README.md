@@ -2,6 +2,8 @@
 
 This repo contains the source code and documentation powering [reactjs.org](https://reactjs.org/).
 
+In case I don't have internet access I can use it locally to learn all the beautiful React features 🎉
+
 ## Getting started
 
 ### Prerequisites
